@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "description": "breakfast",
+        "amount": "40",
+        "created_at": "2025-05-23 11:26:06",
+        "updated_at": ""
+    },
+    {
+        "id": "2",
+        "description": "lunch",
+        "amount": "60",
+        "created_at": "2025-05-23 11:26:18",
+        "updated_at": "25-05-23 11:53:20"
+    },
+    {
+        "id": "3",
+        "description": "dinner",
+        "amount": "70",
+        "created_at": "2025-05-23 11:26:49",
+        "updated_at": ""
+    },
+    {
+        "id": "4",
+        "description": "supper",
+        "amount": "50",
+        "created_at": "2025-05-23 11:31:28",
+        "updated_at": ""
+    },
+    {
+        "id": "5",
+        "description": "data",
+        "amount": "22",
+        "created_at": "2025-05-23 11:41:38",
+        "updated_at": ""
+    }
+]
